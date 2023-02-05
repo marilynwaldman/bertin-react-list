@@ -1,0 +1,19 @@
+{
+    "files":[
+        "typo.json",
+        "simplelayer.json",
+        "tile.json",
+        "choro.json",
+        "bubble.json"
+    ],
+    "manifests" : [
+        {"typo" : { }},
+        {"choro": {
+            "projection": "geoEckert3",
+            "geojson" : "world"
+        }},
+        {"simplelayer": {}},
+        {"tile": {}},
+        {"bubble" : {}}
+    ]
+}
